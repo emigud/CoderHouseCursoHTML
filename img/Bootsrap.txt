@@ -1,0 +1,727 @@
+00:48:45	Alejandro Fernandez:	Gracias!!
+00:48:49	Alejandro Fernandez:	Feliz día!
+00:49:02	Alejandro Fernandez:	victor
+00:49:05	Victor Hugo Maidana:	gracias profe por darme solución :)
+00:49:17	Francisco Galeano:	hola luu
+00:49:18	Victor Hugo Maidana:	sisi
+00:49:23	Victor Hugo Maidana:	lo solucione
+00:49:23	Francisco Galeano:	hola a todos, buenas noches!
+00:49:26	Victor Hugo Maidana:	perdón
+00:49:31	Victor Hugo Maidana:	por no avisar
+00:50:18	Naim Chalop:	si
+00:50:20	Patricio Leal:	si
+00:50:21	Leonel Paz:	hola, buenas noches
+00:50:25	Elena Lamboglia:	Algo
+00:50:26	Tomás Pugliese:	un bardo
+00:50:28	Federico Zanier:	yo estoy con lo de media
+00:50:28	Leonardo Fleita:	no entiendo mucho aun de git jaja
+00:50:28	Mariano Tsai:	0
+00:50:32	Rodrigo Martinez:	recien cree el repo local
+00:50:34	Ignacio Antón:	buenas, como andan?
+00:50:36	Federico Zanier:	me estoy volviendo loco
+00:50:38	[Tutor] Alan Maldonado:	Buenas buenas
+00:50:43	Juan Galarza:	yo el viernes ya me pongo con eso
+00:50:44	Victor Hugo Maidana:	profe tendremos un after esta semana, al menos para ver un poco de grids algo rápido de repaso
+00:50:49	Giselle Ruybal:	yo todavía no, quiero terminar de diseñar bien responive
+00:50:49	Mariano Tsai:	Hola alan!
+00:51:00	Mariano Tsai:	Mañana
+00:51:01	Facundo Peralta:	mañan es el after
+00:51:05	Ivón Junco:	consulta el after vamos a ver lo de la pre entrega
+00:51:05	Mariano Tsai:	a las  21:30
+00:51:08	Juan Galarza:	para mañana a las 21:30
+00:51:08	Jorge Mario Lasagni:	Mañana, 21.30
+00:51:16	Facundo Peralta:	21:30 para hablar de la pre entrga y demas
+00:51:18	Juan Catalfamo:	se va a ver todo lo de la pre-entrega en el after?
+00:51:21	Nicolas Zajaczkowski:	buenas! perdón, la plataforma me anda muy mal y no podía entrar :(
+00:51:22	Francisco Galeano:	pre entrega
+00:51:25	Ivón Junco:	genial
+00:51:29	Victor Hugo Maidana:	excelente profe
+00:53:08	Juan Peralta Ochoa:	hola perdón yo tampoco podía ingresar!!
+00:54:30	Mariano Tsai:	Afuera grids
+00:54:34	Matias Ardenghi:	me cago en la pu
+00:54:35	Alejandro Fernandez:	reemplazamos las medias?
+00:54:36	Rodrigo Martinez:	biennnnnnnnnnnnnnnn vamooooooo
+00:54:39	Sebastián Perez:	no te la puedo creer
+00:54:49	[Tutor] Alan Maldonado:	clase mágica
+00:55:04	Jesus Sanchez:	grids rompiéndome al cabeza jajaja
+00:55:05	Juan Patritti:	Reescribir todo el proyecto de nuevo?????? 🥲
+00:55:08	Ivón Junco:	vamos con 12 columnas jajaj
+00:55:12	Victor Hugo Maidana:	profe Bootstrap entraría en la pre entrega ?
+00:55:17	Facu Diaz:	consulta para la segunda preentrega es obligatorio usar Bootstrap o es opcional??
+00:55:18	Jorge Mario Lasagni:	Cuál es la diferencia entre Framework y Bootstrap??
+00:55:30	[Tutor] Alan Maldonado:	Es un framework bootstrap
+00:55:36	Jorge Mario Lasagni:	ok!
+00:55:48	Ivón Junco:	la navbar entonces podemos hacerla con bootstrap
+00:55:50	Nicolas Zajaczkowski:	Agus/Alan, me acabo de dar cuenta que no me tomó la valoración de las 2 clases de git y git hub… recién pude volver a valorar la de git hub y ahora me la tomó, pero no me deja valorar la de git, ¿después me podrán dar una mano?
+00:56:04	[Tutor] Alan Maldonado:	Si, dale
+00:56:05	Franco González:	profe es obligatorio el uso de bootstrap para la preentrega?
+00:56:22	Nicolas Zajaczkowski:	gracias, Alan!
+00:56:37	Juan Peralta Ochoa:	Hola Alan yo tuve un problema similar con las valoraciones... te envié por privado !
+00:56:44	[Tutor] Alan Maldonado:	Recibido!
+00:57:13	Leonardo Fleita:	sería un template?
+00:57:18	Juan Catalfamo:	A mi tampoco me tomo la valoración de Git
+00:57:24	Luis Ballejos:	para la buena practica
+00:58:00	Cristian G:	templarios dijo? ah no jaja
+00:58:11	Alejandro Vacaro:	plantillas
+00:58:35	Alan Impagliazzo:	seria como wix ponele
+00:58:41	Facu Diaz:	jajajaja
+01:00:18	Facu Diaz:	bo-cha-do
+01:01:30	Sebastián Perez:	un circulo vicioso
+01:02:56	Facu Diaz:	tiene un apartado de icons
+01:02:59	Facu Diaz:	baia baia
+01:03:46	Profesor Coderhouse:	https://getbootstrap.com/
+01:03:53	[Tutor] Alan Maldonado:	Ahora lo paso al link al grupo
+01:04:30	Alejandro Vacaro:	"cordon de bota"?
+01:05:50	Naim Chalop:	twitter
+01:05:50	Mariano Tsai:	twitter
+01:05:50	Sebastián Perez:	twitter
+01:05:51	Leonel Paz:	twitah
+01:05:53	Ivón Junco:	twitter
+01:05:53	Lautaro Campuzano:	facebook
+01:05:55	Patricio Leal:	tuider
+01:05:58	Alejandro Fernandez:	son los creadores?
+01:06:01	85330 - Rodriguez Celiz Pablo:	disculpen la demora, ya tomaron asistencia?
+01:06:04	[Tutor] Alan Maldonado:	Nono
+01:06:10	Francisco Palmeyro Cilander:	Facebook, aaaahhhhhree
+01:06:13	Patricio Leal:	facebook
+01:06:18	[Tutor] Alan Maldonado:	feibu
+01:06:38	Patricio Leal:	me spoitle :(
+01:06:50	Ivón Junco:	Bootstrap studio, es diferente?
+01:07:05	Ivón Junco:	lo vi en un video
+01:07:18	Leonel Paz:	ese danger medio parecido a el crimson
+01:07:35	Ivón Junco:	ok
+01:08:07	Franco González:	bootstrap studio creo que es algo para diseñar
+01:08:16	Ivón Junco:	https://bootstrapstudio.io/
+01:08:18	Franco González:	tipo figma o xd
+01:10:11	Cristian G:	casi
+01:10:34	Juan Patritti:	Tantas horas renegando pra q venga bootstrap 🥲
+01:10:41	Giselle Ruybal:	entonces no seria necesario usar media queries si ekijieramos usar todos los componentes con bootstrap?
+01:11:05	Facu Diaz:	a renegar con algo nuevo entonces
+01:11:12	Rodrigo Martinez:	lo que espere a esa hamburguesaaaaaa
+01:11:16	Facu Diaz:	🥲
+01:11:21	Alejandro Fernandez:	😂
+01:11:22	Matias Ardenghi:	literal rodrigo
+01:11:24	[Tutor] Alan Maldonado:	Ya bootstrap trae todo
+01:11:27	Sebastián Perez:	same
+01:11:28	[Tutor] Alan Maldonado:	hasta el responsive
+01:11:42	Alejandro Vacaro:	si utilizamos media queries y bootstrap, deberíamos utilizar los breakpoints q están definidos en bootstrap no? para q todo se acomoden juntos
+01:11:46	Mariano Tsai:	Obligame
+01:11:47	Mariano Tsai:	ah
+01:11:52	Matias Ardenghi:	jajaja
+01:11:56	Leonel Paz:	Por ejemplo solamente agregar o cambiar el formulario ?
+01:11:59	Alejandro Fernandez:	jajajaja
+01:12:05	Alan Impagliazzo:	seguro una consigna es usar uno de cada
+01:12:36	Rodrigo Martinez:	podrias meter el burguer para mobile y el resto usar una nav generica
+01:12:43	[Tutor] Alan Maldonado:	Si, obvio
+01:13:01	Facu Diaz:	entonces Bootstrap ya te da esos breakpoints ?? no termino de entender eso
+01:13:14	[Tutor] Alan Maldonado:	Bootstrap ya trae los suyos
+01:13:19	Facu Diaz:	claro
+01:13:23	Facu Diaz:	eso quería saber
+01:13:26	Juan Galarza:	si quiero agregar un carousel lo puedo traer de Bootstrap o o tengo que armar de cero?
+01:13:35	Sebastián Perez:	a mi me salta respuesta inmediata, es lo mismo ?
+01:13:39	[Tutor] Alan Maldonado:	Lo traen del sitio web, ahora lo vemos
+01:14:01	Juan Galarza:	genial
+01:14:08	Marcos Serrano:	como siempre apple siempre jodiendo todo xd
+01:15:05	Alejandro Fernandez:	se puede desarrollar una web para que en Android miuestre determinadas cosas y en iPhone otras?
+01:15:18	Facu Diaz:	si usamos Bootstrap se puede usar flex para acomodar los objetos??
+01:15:22	[Tutor] Alan Maldonado:	Si, pueden
+01:15:25	Mariano Tsai:	Me gusta Bootstrap
+01:15:26	[Tutor] Alan Maldonado:	Ahora vemos las propiedades de bootstrap
+01:15:30	Facu Diaz:	joya
+01:16:14	Facu Diaz:	mas todavía??
+01:16:16	Francisco Galeano:	se puede variar entre flex, grids y bootstrap para el proyecto
+01:16:57	Francisco Galeano:	osea combinar todo
+01:17:02	[Tutor] Alan Maldonado:	sip
+01:17:08	[Tutor] Alan Maldonado:	pueden
+01:18:14	Matias Ardenghi:	wtf
+01:18:37	Yazmin Lencina.:	y yo estresándome con 60 líneas jajaj
+01:19:13	Mariano Tsai:	sii
+01:19:24	Mariano Tsai:	jajajajjjajaja
+01:20:00	Maria Belén Banegas:	me fije y la de argentina es igual xd
+01:20:20	Alejandro Vacaro:	la de Uruguay bastante parecida también
+01:20:20	Mariano Tsai:	Alguien tiene que hacer una pagina web de coca y mandarla, y mostrarle como se hace una realmente (?
+01:20:50	Sebastián Perez:	te agradezco pero no
+01:20:50	Alejandro Vacaro:	jajaja
+01:20:53	Mariano Tsai:	Imitar paginas mal hechas y rehacerlas mejor
+01:20:54	Juan Galarza:	cuando estas bloqueado y frustrado entras a la pagina de coca cola Colombia y se te pasa, y seguís tu código como un campeón
+01:20:54	Sebastián Perez:	JA. el batman
+01:21:00	[Tutor] Alan Maldonado:	Jjajaja
+01:21:52	Eduardo Pastrano:	Oh no mi pagina me la robo bootstrap
+01:22:00	Selene Raimondi:	Buenas noches, Alan ingrese recién al zoom por un tema de trabajo, no se si ya pusieron el presente
+01:22:14	Tomás Pugliese:	toda la pagina que uso del laburo esta hecha de Bootstrap jajajja
+01:22:17	[Tutor] Alan Maldonado:	Buenas! todavía no
+01:22:17	Rodrigo Martinez:	jajajajajajaja ya se vioooooo
+01:22:23	Alejandro Vacaro:	desver
+01:22:27	Selene Raimondi:	Genial, gracias!!
+01:22:32	Sebastián Perez:	TARDE
+01:22:32	Eduardo Pastrano:	ctrl + z
+01:26:58	Sebastián Perez:	tiene que ser en el index? o puede usarse en otra ?
+01:27:08	Sebastián Perez:	okiii
+01:27:24	[Tutor] Alan Maldonado:	Se pueden usar en distintos archivos
+01:27:45	Cristian G:	esta mas fachera la font
+01:28:33	Lautaro Campuzano:	le aplicó reseteo * tambien o me parece a mi?
+01:28:53	Facu Diaz:	juuuu
+01:29:06	Sebastián Perez:	como seria esa fuente sin Bootstrap? se puede ver ?
+01:29:39	Eduardo Pastrano:	Y es tambien diferente a la que trae el navegador por defecto
+01:30:37	Eduardo Pastrano:	Esa bunge esta super profesional
+01:30:38	[Tutor] Alan Maldonado:	Bootstrap ya tiene sus fuentes definidas
+01:31:17	Mauro Pellico Zella:	la prioridad la tiene nuestro css?
+01:32:49	Sebastián Perez:	ui mamita
+01:33:00	Facu Diaz:	joyaaaaaa
+01:33:06	Facu Diaz:	i need that
+01:33:10	Alejandro Vacaro:	FAQs
+01:33:13	Elena Lamboglia:	Seccion de preguntas
+01:33:36	Alejandro Fernandez:	maravilla
+01:33:36	Nicolas Zajaczkowski:	es lo mismo la versión 5.0 que 5.2? porque a mi me redirecciona a 5.2
+01:33:45	[Tutor] Alan Maldonado:	No cambia mucho
+01:33:45	Leonel Paz:	mira todos esos divs papa, se me va a desconfigurar todo
+01:33:50	[Tutor] Alan Maldonado:	Pero podes cambiar la versión
+01:33:53	Elena Lamboglia:	Jajajajaja lit
+01:33:54	[Tutor] Alan Maldonado:	Desde el sitio web
+01:34:07	Leonardo Fleita:	perdón me perdí, qué es un accordion?
+01:34:22	[Tutor] Alan Maldonado:	Cuando le das click y despliega
+01:34:25	[Tutor] Alan Maldonado:	Un texto
+01:34:27	Leonardo Fleita:	ah gracias
+01:34:28	Elena Lamboglia:	Son los botone esos desplegables, que al clickear despliegan mas inormacion
+01:34:32	Federico Zanier:	oesa se trabaja todo en el HTML??
+01:34:39	Sebastián Perez:	osea se puede hacer el hamburguesa con eso?
+01:34:53	Elena Lamboglia:	🤔
+01:34:54	[Tutor] Alan Maldonado:	Hay un componente entero
+01:34:57	[Tutor] Alan Maldonado:	del nav
+01:35:01	[Tutor] Alan Maldonado:	ahora lo vemos
+01:35:24	Rodrigo Martinez:	No logro entender que es lo que estaria mal quedarse del template, el copiar y pegar sin cambiarle absolutamente nada?
+01:35:38	Elena Lamboglia:	That easy? 😧Y eso que lucia intimidante
+01:35:43	[Tutor] Alan Maldonado:	Esta super mal jajaj
+01:35:44	[Tutor] Alan Maldonado:	No haces nada
+01:35:55	[Tutor] Alan Maldonado:	Osea para el proyecto de coder
+01:35:56	[Tutor] Alan Maldonado:	No va
+01:36:00	Rodrigo Martinez:	por eso, hay que usar los componentes pero meterle lo tuyo
+01:36:00	[Tutor] Alan Maldonado:	Pero si despues ustedes quieren usarlos
+01:36:01	[Tutor] Alan Maldonado:	usenlo
+01:36:09	[Tutor] Alan Maldonado:	claro
+01:36:16	Mariano Tsai:	Cuantos carruselessssss
+01:36:18	Facu Diaz:	literalmente copias el código que figura ahí y listo??
+01:36:20	Cristian G:	pasa a ser una cuestión de moral despues
+01:36:21	Mariano Tsai:	con razón coca puso tantos
+01:36:23	[Tutor] Alan Maldonado:	Si Facundo
+01:36:27	[Tutor] Alan Maldonado:	Pero hay algo malo en esto
+01:36:31	[Tutor] Alan Maldonado:	Todos lo usan
+01:36:35	[Tutor] Alan Maldonado:	Y los estilos de todo
+01:36:42	[Tutor] Alan Maldonado:	Son idénticos jajaj
+01:36:42	Tutor-Agustin Agis:	Claro
+01:36:46	Sebastián Perez:	LO QUIEROOOOOOOOOO
+01:36:47	Tutor-Agustin Agis:	Es así de sencillo
+01:36:49	[Tutor] Alan Maldonado:	Ahora se van a dar cuenta con el navbar
+01:36:52	Ivón Junco:	no capto, si me llevo código, entonces no deberíamos usarlo para armar la pre-entrega o si?
+01:37:03	Juan Galarza:	es el Disney del desarrollador jajaja
+01:37:06	Alejandro Fernandez:	lpm
+01:37:10	Leonardo Fleita:	los carruseles tienen JavaScript?
+01:37:12	Facu Diaz:	jajajajaja
+01:37:13	[Tutor] Alan Maldonado:	Si
+01:37:14	Ivón Junco:	ahh listo
+01:37:14	Cristian G:	ya estoy tirando curriculum a coca cola colombia
+01:37:16	Alejandro Fernandez:	q fácil
+01:37:17	Alejandro Fernandez:	jajaja
+01:37:19	Leonel Paz:	creo que amo bootstrap
+01:37:19	Eduardo Pastrano:	Para ciertos elementos creo es lo que entiendo, no la plantilla completa de una web
+01:37:26	Mariano Tsai:	x2 Leonel jajajaja
+01:37:29	Matias Ardenghi:	ah no, nos casamos con Bootstrap jaja
+01:37:48	Alejandro Vacaro:	sale tattoo de bootstrap!
+01:37:56	Alejandro Fernandez:	😂
+01:37:59	Matias Ardenghi:	jajaa
+01:37:59	Elena Lamboglia:	JAJAJA
+01:38:12	Sharvin Romero Leon:	la customización de esto se hara con sass o pisando con import!?
+01:38:56	Eduardo Pastrano:	Uhhhh esta hermoso
+01:39:02	Alejandro Fernandez:	es como el de las cookies?
+01:39:15	Mariano Tsai:	AMAMOS
+01:39:16	Eduardo Pastrano:	Creo que si Ale, es el mas parecido el de abajo jaja
+01:39:19	Elena Lamboglia:	Y la hamburguer? 🍔
+01:39:27	Sebastián Perez:	hamburguesa
+01:39:28	Federico Zanier:	y la burguer
+01:39:30	Lautaro Campuzano:	anoten chicos
+01:39:42	Elena Lamboglia:	yeiii
+01:39:44	Patricio Leal:	jajaja
+01:39:48	Sebastián Perez:	wiiiiiiiiiiiiiii
+01:41:15	Elena Lamboglia:	El color no se puede cambiar
+01:41:16	Elena Lamboglia:	?
+01:41:34	[Tutor] Alan Maldonado:	Si, se puede
+01:41:38	Mariano Tsai:	SE esta haciendo desear la hamburguesa
+01:41:39	Facu Diaz:	consulta: si yo pongo un navbar y ponele que quiero agregarle un effect hover en algún color con css puro podría??
+01:41:44	[Tutor] Alan Maldonado:	Si, podes
+01:41:47	Elena Lamboglia:	AAAAA 🤩
+01:41:51	Leonardo Fleita:	Si tengo mi navbar armada para la versión web, pero quiero que en mobile sea desplegable, tengo que usar una navbar de Bootstrap para todo?
+01:42:45	[Tutor] Alan Maldonado:	Con las medias queries
+01:42:48	Tomas Riddell:	qué es el span?
+01:42:53	Elena Lamboglia:	Le puede dar boton derecho documento no se que y lo arregla rapido
+01:43:00	[Tutor] Alan Maldonado:	Pero si copias y pegas el de bootstrap
+01:43:02	Elena Lamboglia:	A la identacion
+01:43:03	Rodrigo Martinez:	y el click derecho format no funca?
+01:43:04	[Tutor] Alan Maldonado:	Ya lo hace solo
+01:43:10	Pablo Pereyra:	Podemos usar format document?
+01:43:12	Leonardo Fleita:	pero con las media queries no cambio sólo el estilo? ahí el HTML es distinto
+01:43:13	Cristian G:	como se llama esa herramienta para vsc?
+01:43:16	Pablo Pereyra:	En ese caso]?
+01:43:25	[Tutor] Alan Maldonado:	Cambia solo si usan los componentes
+01:43:35	[Tutor] Alan Maldonado:	O le agregan la class
+01:43:39	[Tutor] Alan Maldonado:	A la etiqueta
+01:43:41	[Tutor] Alan Maldonado:	Pero ya vamos a eso
+01:43:44	Santiago Sanguinetti:	No es indent?
+01:43:45	[Tutor] Alan Maldonado:	no me adelanto
+01:43:47	Profesor Coderhouse:	ident rainbow
+01:43:55	Sebastián Perez:	indent rainbow
+01:44:05	Alejandro Vacaro:	si le damos a la opción dar formato de documento lo debería acomodar solo no?
+01:44:06	Cristian G:	messirve
+01:44:51	[Tutor] Alan Maldonado:	si
+01:44:52	[Tutor] Alan Maldonado:	lo acomoda solo
+01:45:14	Alejandro Vacaro:	gracias Alan!
+01:46:04	[Tutor] Alan Maldonado:	De nada!
+01:46:11	Elena Lamboglia:	Despues puede hacer un ejeplo que venga sin el container fluid?
+01:47:51	Lautaro Campuzano:	y en otra medida de pantalla como se ve? ya que es responsive
+01:47:56	Tomas Riddell:	para qué sirve la etiqueta span?
+01:48:00	lucas aguilera:	mucha información para mi mente 😂
+01:48:06	Leonardo Fleita:	x2
+01:48:27	[Tutor] Alan Maldonado:	Por esta razón vemos bootstrap despues jaja
+01:48:36	[Tutor] Alan Maldonado:	Hay que entender lo anterior
+01:48:40	[Tutor] Alan Maldonado:	Pero tranqui!
+01:48:42	[Tutor] Alan Maldonado:	Van a sacarlo
+01:49:12	Rodrigo Martinez:	y vomos una lista adentro de otra tb
+01:49:13	Nicolas Zajaczkowski:	es para asignar un estilo a un elemento en un bloque, Tomas
+01:49:17	Rodrigo Martinez:	vimos
+01:49:32	Nicolas Zajaczkowski:	por ej si querés poner en negrita una palabra dentro de un parráfo
+01:49:32	Tomas Riddell:	vale Nico
+01:49:36	Lucia Gili:	los nombres de la class las podemos cambiar también?
+01:49:37	Nicolas Zajaczkowski:	párrafo
+01:49:50	Elena Lamboglia:	AAAAAA que coool
+01:49:51	Lautaro Campuzano:	ay, esa barra la veo re conocida jaja
+01:49:51	Matias Ardenghi:	nananana
+01:49:52	Alejandro Fernandez:	😍
+01:49:52	Leonel Paz:	lo necesito
+01:49:53	[Tutor] Alan Maldonado:	No Lucia!
+01:49:55	Elena Lamboglia:	effortless
+01:49:55	Leonel Paz:	LO NECESITO
+01:49:56	Eduardo Pastrano:	No me lo esparaba jajajaja
+01:49:56	[Tutor] Alan Maldonado:	Son los de bootstrap
+01:49:57	Sebastián Perez:	NOOOOOOOOOOOOOOO
+01:49:58	Matias Ardenghi:	i neeeed
+01:49:58	Facu Diaz:	liiiiiisto
+01:50:01	Sebastián Perez:	LO QUIEROOOOOOOOOOOOOO
+01:50:04	Sebastián Perez:	CUAL ERA QUE ME OLVIDE
+01:50:05	Leonel Paz:	deme 10
+01:50:11	Mariano Tsai:	Lindisismo
+01:50:45	Facu Diaz:	ahí viene el mambo
+01:51:08	Sebastián Perez:	altos racistas
+01:51:09	Mariano Tsai:	Los chetos jajaja
+01:52:08	Sebastián Perez:	pregunta , se le pueden meter iconos ?? en lugar que diga NAVBAR , meter un icono ahi
+01:52:11	Pablo Rodriguez Celiz:	blueviolete
+01:52:41	[Tutor] Alan Maldonado:	Si, podes Seba
+01:52:46	Juan Galarza:	pregunta en el carousel si pongo las fotos las tengo que adaptar al formato con flex o las adapta automáticamente?
+01:52:57	Sebastián Perez:	Graciasss alan
+01:53:28	Leonardo Fleita:	background-color
+01:53:54	Naim Chalop:	y si le quiero poner un logo?
+01:54:00	Facu Diaz:	eso
+01:54:09	Facu Diaz:	me sumo a esa duda
+01:54:17	Maria Belén Banegas:	tenemos que usar bootstrap para la segunda preentrega?
+01:54:19	Elena Lamboglia:	yo tmb
+01:54:28	lucas aguilera:	un carrusel con fotos
+01:54:28	Leonardo Fleita:	porque es html
+01:54:30	Mauro Pellico Zella:	es html
+01:54:32	Lautaro Campuzano:	es html
+01:54:32	Matias Ardenghi:	y para ponerlo con las rutas que tenemos??
+01:54:35	Elena Lamboglia:	un game changer este bootstrap
+01:54:36	Leonardo Fleita:	eso es comentario en css
+01:54:39	Lautaro Campuzano:	<!-
+01:54:48	Nicolas Zajaczkowski:	justo iba a preguntar eso, Belén... si tengo que rehacer la pre-entrega aplicando Bootstrap, lloro :(
+01:54:53	Matias Ardenghi:	ctrl + k + u el coment jaj
+01:54:57	[Tutor] Alan Maldonado:	Si no me equivoco si
+01:55:03	Alejandro Fernandez:	la de los gatitos
+01:55:03	Maria Belén Banegas:	tranqui, nos ayudamos
+01:55:22	Victor Lovera:	shift + alt + A
+01:55:28	Sebastián Perez:	el gato drogado del otro dia era chiquito
+01:55:33	Alejandro Fernandez:	jajaja alto gatooo
+01:55:34	Elena Lamboglia:	Siiii logo
+01:55:38	Leonardo Fleita:	gato drogado xD
+01:55:45	Facu Diaz:	jajajajaja
+01:56:03	Ulices Vazquez:	estoy viendo que tendré que rehacer todo con bootsrap
+01:56:10	Mariano Tsai:	cuantas carpetas dios mio
+01:56:15	Facu Diaz:	pero lo haces rápido
+01:56:16	Sebastián Perez:	maaal
+01:56:17	Facu Diaz:	jajaja
+01:57:28	Sebastián Perez:	50 50
+01:57:30	Federico Zanier:	ese logo al ponerlo hay ya es responsive??
+01:58:32	Sharvin Romero Leon:	display
+01:59:50	Sharvin Romero Leon:	sizing creo que esta
+02:00:19	Leonardo Fleita:	ahí ya no es responsive
+02:00:28	Naim Chalop:	seria  3em no?
+02:00:39	Maria Belén Banegas:	5 rem
+02:01:33	Sebastián Perez:	pero esta mewdido en pixeles?
+02:01:46	Sharvin Romero Leon:	por altura h-25
+02:01:47	Sebastián Perez:	en boostrap
+02:02:04	Sebastián Perez:	a lo mejor no lo ve en pixeles sino en em a lo mejor
+02:02:21	Sebastián Perez:	a lo mejor
+02:02:24	Sebastián Perez:	xD
+02:03:12	Lucia Gili:	podemos usar todo lo que hay en bootstrap?
+02:03:25	Rodrigo Martinez:	para llamar a la class de la nav tenes que llamarla con todo ese texto???
+02:03:26	Elena Lamboglia:	Para esta preentrega?
+02:04:29	[Tutor] Alan Maldonado:	Pueden usar todos los componentes que quieran
+02:04:42	Elena Lamboglia:	🤩
+02:05:52	Juan Galarza:	la importancia de saber ccs puro
+02:05:57	[Tutor] Alan Maldonado:	Muuuy
+02:06:45	Sharvin Romero Leon:	.text-light
+02:06:49	Elena Lamboglia:	No entendi eso de css puro, es sass? O el css que ya manejamos?
+02:06:56	[Tutor] Alan Maldonado:	Es lo que estan usando
+02:07:04	Carlos Cudriz :	Como sabemos para que servía ese active? Hay alguna página que explique un poco más el código que copiamos? Porque pueda que nos encontremos con otra clase que esté así con otro nombre y no vamos a saber qué significa
+02:07:08	Elena Lamboglia:	Ahhh
+02:07:27	[Tutor] Alan Maldonado:	Hay documentación en el sitio web
+02:07:29	[Tutor] Alan Maldonado:	Oficial
+02:07:30	[Tutor] Alan Maldonado:	De todo
+02:07:35	Lucia Gili:	para la segunda pre entrega tenemos que hacer un css para dos tamaños de pantallas? o para más?
+02:07:57	Carlos Cudriz :	Gracias alan
+02:08:05	[Tutor] Alan Maldonado:	https://hackerthemes.com/bootstrap-cheatsheet/
+02:08:10	[Tutor] Alan Maldonado:	Las clases de bootstrap
+02:08:38	Elena Lamboglia:	Tiene que ser mobile first y luego el siguiente que seria tablet, o saltamos a computadora solo para que se puedan ver los dos modos en esta entrega?
+02:09:01	Sebastián Perez:	cheat sheet me encanto, pero sheet no es mierda en ingles? xD jajajaa
+02:09:02	Elena Lamboglia:	te la jugaste Alan 🧡
+02:09:12	Lautaro Campuzano:	eso es shit
+02:09:16	Sebastián Perez:	ahhhh
+02:09:18	Elena Lamboglia:	sheet es hoja
+02:09:32	Elena Lamboglia:	tipo de papel
+02:09:44	Sebastián Perez:	3 años estudiando ingles al pedo xD jajaa gracias gente
+02:09:53	[Tutor] Alan Maldonado:	jajaja
+02:10:07	[Tutor] Alan Maldonado:	Nunca se para de aprender (?
+02:10:17	Matias Ardenghi:	jajajaj
+02:11:18	Tutor-Agustin Agis:	El saber no ocupa lugar ah
+02:11:21	Tutor-Agustin Agis:	AJJAJAJAJ
+02:12:30	Facu Diaz:	para aplicarle un efecto le creamos una clase propia no como siempre??
+02:12:34	Matias Ardenghi:	ay madre mia
+02:12:40	[Tutor] Alan Maldonado:	Siii Facu
+02:12:41	Sebastián Perez:	ahora se viene lo chido
+02:13:23	Sebastián Perez:	que es ese ABC que aprece ahí en el medio ?
+02:13:42	Alejandro Vacaro:	el aviso de cuando cambia el teclado a may o min
+02:13:48	Alejandro Vacaro:	es de la pc de la profe
+02:13:51	Elena Lamboglia:	Creo que es del teclado de ella
+02:14:10	Sebastián Perez:	ahhh , oki gracias , me daba ansiedad jajaja
+02:14:42	Alejandro Vacaro:	jaja de nada
+02:14:55	Lucia Gili:	Pero entonces con esto hacemos menos cosas en el css no ?
+02:14:57	Matias Ardenghi:	no quiero abusar de Bootstrap, no quiero abusar de Bootstrap, no quiero abusar de Bootstrap, bueno si
+02:15:03	[Tutor] Alan Maldonado:	jajaja
+02:15:12	Sebastián Perez:	ajajajajajjajaja
+02:15:13	[Tutor] Alan Maldonado:	tengan un punto medio
+02:15:14	Elena Lamboglia:	ajajajajaj same
+02:15:18	[Tutor] Alan Maldonado:	No se vayan al extremo de no usar CSS
+02:15:19	Matias Ardenghi:	jajajajaaj
+02:15:25	[Tutor] Alan Maldonado:	porque no se lo van a tomar como válido
+02:15:34	Rodrigo Martinez:	por lo que veo toda la personalizacion va en el atributo clase?
+02:15:53	Leonardo Fleita:	a mi me pasa al revés, quiero usarlo solamente para lo que no sepa hacer yo en css para no hacerme un lío en el código
+02:16:01	Patricio Leal:	minuevoproyectobootstrap.com
+02:16:12	Lautaro Campuzano:	que tanto bootstrap esta bien usar? o es medio para detalles/cosas en especificio en el proyecto
+02:16:13	[Tutor] Alan Maldonado:	Todo va en el class
+02:16:42	Matias Ardenghi:	creo que lo ideal es para la nav o el footer o algunos detalles porque es verdad te haces lio sino
+02:16:49	Mauro Pellico Zella:	un navbar y un carrousel es lo justo y necesario jaja
+02:16:57	[Tutor] Alan Maldonado:	Dependera de vos Lautaro
+02:16:58	Patricio Leal:	jaja diria lo mismo
+02:17:06	[Tutor] Alan Maldonado:	Pero
+02:17:11	[Tutor] Alan Maldonado:	No llegues al punto de no tener css jajaj
+02:17:18	Jorge Mario Lasagni:	Cuando desarrollamos, entonces, tenemos que tener cuidado de no usar una clase que ya está definida en Bootstrap?
+02:17:26	[Tutor] Alan Maldonado:	Exacto Jorge
+02:17:28	Lautaro Campuzano:	okey jaja gracias Alan
+02:17:32	[Tutor] Alan Maldonado:	Si usas una clase igual que la de bootstrap
+02:17:34	Tutor-Agustin Agis:	Claro
+02:17:35	Jorge Mario Lasagni:	oki!
+02:17:37	Mariano Tsai:	era mas complicado de lo que parece
+02:17:37	[Tutor] Alan Maldonado:	Toma la de bootstrap
+02:17:40	Tutor-Agustin Agis:	porque sino se pisan Jorge o colisiona
+02:18:07	Patricio Leal:	si o si es necesario hacer una pagina con bootstrap o se puede sin ella ?
+02:18:10	Alejandro Vacaro:	AMO
+02:18:16	Mariano Tsai:	Amamos
+02:18:31	Patricio Leal:	osea a lo que voy si solo se puede usar html css js
+02:18:31	Federico Zanier:	che y ahora con esto.. es css queda al vicio practicamente
+02:18:38	[Tutor] Alan Maldonado:	Si
+02:18:44	Jorge Mario Lasagni:	Cómo separás el LOGO de HOME?
+02:18:45	[Tutor] Alan Maldonado:	Podes Patricio
+02:18:45	Matias Ardenghi:	re
+02:18:47	Naim Chalop:	si
+02:18:49	Lautaro Campuzano:	es como usar photomatch para la evualación de matematicas
+02:18:50	Lautaro Campuzano:	ah
+02:18:51	Patricio Leal:	ah genial
+02:18:53	[Tutor] Alan Maldonado:	Me pasó de que un estudiante me entregó un trabajo
+02:18:55	Patricio Leal:	gracias
+02:18:59	[Tutor] Alan Maldonado:	Y solo uso bootstrap en una sola parte
+02:19:02	Franco Quevedo:	el responsive lo aplica solo al final?
+02:19:04	[Tutor] Alan Maldonado:	Para pasar el desafío
+02:19:12	Patricio Leal:	eso estaba pensando ahcer
+02:19:17	Patricio Leal:	hacer*
+02:19:24	Mariano Tsai:	Es muy inteligente tu alumno ah
+02:19:33	[Tutor] Alan Maldonado:	1000iq
+02:19:37	Matias Ardenghi:	jajaja
+02:19:38	Sebastián Perez:	tu alumno nos acaba de dar una exelente idea
+02:19:38	Alejandro Vacaro:	que difícil va a ser medirse y no abusar.. prefiero hacer dieta
+02:19:42	[Tutor] Alan Maldonado:	jajajaj
+02:19:44	Elena Lamboglia:	Y pasó el desafío?
+02:19:45	Patricio Leal:	xD
+02:19:53	[Tutor] Alan Maldonado:	Si, obvio
+02:19:58	[Tutor] Alan Maldonado:	Lo pasó
+02:20:00	Patricio Leal:	jajaja es que me adapto mejor poniendo pocas cosas
+02:20:01	[Tutor] Alan Maldonado:	y despues lo borro
+02:20:07	[Tutor] Alan Maldonado:	porque no lo queria usar
+02:20:10	Patricio Leal:	osea lo justo y necesario
+02:20:11	Patricio Leal:	xD
+02:20:12	Lautaro Campuzano:	el alumno vio el vacío legal y lo aprovecho
+02:20:12	Elena Lamboglia:	Jajajajja omg
+02:20:16	[Tutor] Alan Maldonado:	Claaaro
+02:20:19	Patricio Leal:	me va a pasar es oalan xD
+02:20:21	[Tutor] Alan Maldonado:	Aprovechó el bug
+02:20:26	Patricio Leal:	pero si la voy a aprender
+02:20:29	Patricio Leal:	por mas que n olo use
+02:20:45	Patricio Leal:	uh me teclado no da mas xD
+02:20:55	[Tutor] Alan Maldonado:	Pide cambio ese espacio
+02:21:02	Patricio Leal:	jajajaja
+02:21:50	Patricio Leal:	digamos que con js puedo hacer lo mismo de bootstrap va creo estoy re ansioso xD
+02:22:23	[Tutor] Alan Maldonado:	Con js
+02:22:25	[Tutor] Alan Maldonado:	Se puede hacer de todo
+02:22:35	Patricio Leal:	🤩
+02:22:47	Franco González:	a mí me toca cambiar el nombre de las clases, porque casi todas coinciden con las bootstrap lpm
+02:22:53	[Tutor] Alan Maldonado:	Noo
+02:23:01	[Tutor] Alan Maldonado:	A cambiar nomas
+02:23:02	Patricio Leal:	the real programmer
+02:23:04	Matias Ardenghi:	NOOOOOOO JAJAJAJA
+02:23:12	Matias Ardenghi:	la pior
+02:23:14	Sebastián Perez:	dios te acompañe franco
+02:23:15	Patricio Leal:	xD
+02:23:20	Elena Lamboglia:	JAJAJ
+02:23:25	[Tutor] Alan Maldonado:	Al menos miren el lado positivo
+02:23:27	Franco González:	jajaj
+02:23:31	[Tutor] Alan Maldonado:	Piensa como los desarrolladores de bootstrap
+02:23:33	[Tutor] Alan Maldonado:	Para llamar a las clases
+02:23:40	Matias Ardenghi:	todo un genio fran
+02:23:55	Sebastián Perez:	es un adelantado jaja
+02:24:15	Mauro Pellico Zella:	tiene que ser específicamente ese el nombre de la clase? "container-fluid"?
+02:24:57	Leonardo Fleita:	y si queremos que el número de columnas sea otro, y no 12?
+02:25:35	Cristian G:	motivo educativo
+02:27:38	Rodrigo Martinez:	tremendo pique
+02:27:56	Profesor Coderhouse:	https://dummyimage.com/
+02:28:48	Rodrigo Martinez:	no hay ninguna pagina que le tires unas imagenes y las recorte todas del mismo tamaño?
+02:28:49	Mariano Tsai:	TAMBIEN ES RESPONSIVE
+02:28:51	Mariano Tsai:	QUE HERMOSO
+02:29:30	Sebastián Perez:	nooo
+02:29:37	Alejandro Fernandez:	nop
+02:29:38	Naim Chalop:	no me acuerdo
+02:29:39	Mariano Tsai:	Yo se las ponía en el css a cada imagen
+02:29:40	Mariano Tsai:	xd
+02:29:40	Alejandro Vacaro:	no
+02:29:41	Matias Ardenghi:	nop
+02:29:42	Juan Galarza:	nooooooo
+02:29:48	Matias Ardenghi:	no somos nosotros
+02:29:51	Federico Zanier:	no no
+02:29:51	Elena Lamboglia:	noo
+02:29:52	Mariano Tsai:	Fue al otro curso que queres mas
+02:29:54	Patricio Leal:	nos engaña
+02:29:54	Alejandro Vacaro:	Iloveimg?
+02:29:55	Matias Ardenghi:	no, ni ahi
+02:30:00	Lautaro Campuzano:	yo les ponia una misma clase a las imagenes y le daba el tamaño que queria en general
+02:30:02	Elena Lamboglia:	Mariano tiene razon
+02:30:02	Patricio Leal:	https://www.tiktok.com/@l_code/video/7104780544344411397?is_from_webapp=1&sender_device=pc&web_id=7146004781101860358
+02:30:04	Sebastián Perez:	noooo
+02:30:06	Sebastián Perez:	a nosotros no
+02:30:20	Patricio Leal:	mmmm
+02:30:20	Ricardo agustin Aravena:	dato curioso ulove pdf es de tandil
+02:30:25	Alejandro Vacaro:	yo use esa para mi proyecto pero la encontré buscando en google
+02:30:49	Mariano Tsai:	https://www.iloveimg.com/es
+02:31:08	Sebastián Perez:	seguro con otra comisión si la uso
+02:31:11	Ricardo agustin Aravena:	aguante el  cagnoli y ilovepdf
+02:32:30	Rodrigo Martinez:	muchas gracias!
+02:32:40	Alejandro Fernandez:	donde recomendas hostear las img para que el proyecto pese poco?
+02:32:47	Juan Galarza:	tremendo dato
+02:32:55	Facu Diaz:	para el carrusel se puede usar esa medida de px 600x300??
+02:33:19	Facu Diaz:	ahhh
+02:33:27	Ricardo agustin Aravena:	lazyloading?
+02:33:29	Sebastián Perez:	puede agarrar de a 2 imágenes el carrousel?
+02:33:48	Sebastián Perez:	nono
+02:34:02	Sebastián Perez:	2 imágenes juntas , toco la flecha y me saltan 2 mas
+02:34:06	Mariano Tsai:	Creo que deberías editarlo vos eso onda en una imagen
+02:34:14	Sebastián Perez:	si ?
+02:34:20	Sebastián Perez:	uhhh , las mias son verticales , que paja jajaja
+02:38:17	Alejandro Fernandez:	con esto podemos reemplazar prácticamente todas las @medias no?
+02:38:35	Juan Galarza:	siempre se empieza por la mas grande hasta la mas chica?
+02:38:37	Isabela Mandressi Castro:	Que hermosoo
+02:38:44	[Tutor] Alan Maldonado:	Si pero no Ale
+02:38:58	[Tutor] Alan Maldonado:	A veces vas a tener que usar las medias queries
+02:39:05	[Tutor] Alan Maldonado:	Pero con bootstrap solo podes hacerlo
+02:39:20	Sebastián Perez:	AGUANTE BOOSTRAP
+02:39:23	Emiliano Gudiño:	que bieeen eso
+02:39:27	Juan Catalfamo:	porq no vimos esto en la primera clase :(
+02:39:30	Ivón Junco:	muy bueno
+02:39:39	Alejandro Fernandez:	bien Alan … gracias!
+02:39:50	Emiliano Gudiño:	ahi ya matas las medias query
+02:39:57	Federico Zanier:	@media fundio
+02:39:59	Emiliano Gudiño:	es un gol
+02:40:23	Agustin Barreiros:	el after para la 2da entrega cuando seria?
+02:40:30	Eduardo Pastrano:	Mañana 
+02:40:37	Sebastián Perez:	soy una fila
+02:40:41	Mauro Pellico Zella:	21.30
+02:40:42	Elena Lamboglia:	Mañana
+02:41:25	Lucia Gili:	pero si hacemos grid desde ahí no tenemos que porque hacerlo en el css para la pre entrega?
+02:41:43	Sebastián Perez:	me repetís la diferencia entre el conteiner fuild y el conteiner ?
+02:41:48	Isabela Mandressi Castro:	bootstrap se evalúa en esta pre entrega?
+02:41:49	Emiliano Gudiño:	ahi va buena pregunta para la pre entrega de ahora
+02:41:53	Emiliano Gudiño:	que tanto va de esto
+02:42:09	Lautaro Campuzano:	aca el carrusel contiene una imagen, pero puede contener cualquier cosa no? como img y un texto por ej
+02:42:13	Matias Ardenghi:	profe que recomendas mas, usar grids con boots o normal?
+02:42:16	Sebastián Perez:	buenichimo muchas gracias
+02:42:34	Mariano Tsai:	o imágenes y arriba de la imagen podes poner texto
+02:42:37	Mariano Tsai:	se muere lu
+02:42:38	Mariano Tsai:	jajajaja
+02:43:26	Jorge Mario Lasagni:	Lu, por favor, cómo separás la palabra HOME del LOGO en la cabecera de la página?
+02:43:59	Jorge Mario Lasagni:	ok!
+02:44:25	Carlos Cudriz :	El after queda para mañana cierto?
+02:44:51	[Tutor] Alan Maldonado:	Sii
+02:45:04	Mariano Tsai:	Tenemos que usar boostrap
+02:45:13	Eduardo Pastrano:	Presentacion powerpoint
+02:45:46	Sebastián Perez:	GRACIAS
+02:45:57	Franco González:	entonces usar bootstrap no es obligatorio?
+02:46:11	Patricio Leal:	comentarios ?
+02:46:11	Sebastián Perez:	no existe el div3
+02:46:17	Patricio Leal:	a mi me corrigieron eso xD
+02:46:18	Mariano Tsai:	JAJAJAJAJAJ
+02:46:20	Victor Hugo Maidana:	profe como seria lo de las dos paguinas?
+02:46:24	Lautaro Campuzano:	jaja
+02:46:45	Mariano Tsai:	las dos paginas quieren decir tener tu index completo y tu otra pagina completa
+02:46:47	Mariano Tsai:	creo
+02:47:07	Alejandro Vacaro:	y el resto de las otras 3 no las tocamos?
+02:47:16	Federico Zanier:	el tema contenido podemos seguir usando loren
+02:47:18	Federico Zanier:	??
+02:47:26	Federico Zanier:	o tenemos que generar contenido
+02:47:37	Giselle Ruybal:	al repositorio hay que subir todo el proyecto o las 3 paginas?
+02:47:45	Mauro Pellico Zella:	el limite son 5html en el proyecto o pueden ser mas?
+02:48:00	Alejandro Vacaro:	yo hice 6
+02:48:21	Tomas Riddell:	el container-flex se lo puedo poner como clase al footer por ejemplo? O tiene que ser a otro div necesariamente
+02:48:46	Tomas Riddell:	si si
+02:48:56	Leonel Paz:	profe en git, guarde como "preentre2 - copia" no pasa nada a la hora que lo suba GitHub? creo que la tire al barro xd
+02:50:17	Patricio Leal:	profe tiene que ser el mismo proyecto de la primera pre-entrega
+02:50:20	Leonel Paz:	claro
+02:50:27	Leonardo Fleita:	el responsive tiene que ser sí o sí para 3 medidas? o puede ser para 2? porque si no hay mucho contenido quizás no hay que adaptar demasiado
+02:50:29	Leonel Paz:	ahh joya profe gracias
+02:50:30	Sebastián Perez:	uhhh yo lo cambie todo al primero
+02:50:44	Sebastián Perez:	literalmente TODO
+02:50:51	Sebastián Perez:	no pasa nada ?
+02:50:57	Sebastián Perez:	ahh listo , gracias
+02:51:33	Alejandro Fernandez:	vamos traajando desde ya entonces
+02:52:07	Naim Chalop:	cambiar
+02:52:08	Juan Galarza:	cambiar las class
+02:52:08	Sebastián Perez:	css a cosas sin clases?
+02:52:11	Leonardo Fleita:	cambiar el Bootstrap cpn nuestro propio css
+02:52:15	Naim Chalop:	lo de bootstrap
+02:52:24	Nahuel Lautaro Zalazar:	lo que hc
+02:52:31	Juan Galarza:	ahhhh
+02:52:37	Nahuel Lautaro Zalazar:	lo q hiciste con el color
+02:52:42	Emiliano Gudiño:	pero si no uso bosstrap
+02:52:44	Federico Zanier:	ahh bien como hiciste el color del nav
+02:52:53	Emiliano Gudiño:	ahh ok
+02:53:05	Alejandro Fernandez:	un botón cumple jejeje
+02:53:13	Sebastián Perez:	2000 IQ
+02:53:20	Patricio Leal:	xD
+02:53:29	Federico Zanier:	o la barra de navegación es la q va
+02:53:30	Ivón Junco:	la nav en Bootstrap?
+02:53:44	Naim Chalop:	como ponemos el mapa?
+02:53:45	Sebastián Perez:	me mate buscando videos para el menú hamburguesa para que boostrap me de el código completo xD
+02:53:47	Naim Chalop:	en contacto
+02:54:02	Alejandro Fernandez:	y hacer la PAGE?
+02:54:11	Alejandro Fernandez:	la de github
+02:54:11	Mariano Tsai:	Mañana podemos mostrar algo de los proyectos ?
+02:54:12	Leonardo Fleita:	puede ser un solo commit?
+02:54:13	Patricio Leal:	subirla a pages ?
+02:54:14	Naim Chalop:	2 page
+02:54:16	Naim Chalop:	pages
+02:54:29	Patricio Leal:	repo e git
+02:54:35	Matias Ardenghi:	lo que explicaste ayer hablan
+02:54:36	Mariano Tsai:	subirla a pages desde GitHub
+02:54:38	Federico Zanier:	pero hablo algo de la page
+02:54:40	Patricio Leal:	y subir ahi en pagina
+02:54:40	Alejandro Fernandez:	eso que creábamos la page de GitHub y nos daba el link
+02:54:41	Nicolas Zajaczkowski:	si, es que es la opción de menú "page" en github
+02:54:42	Matias Ardenghi:	lo que recomendaste jaja
+02:54:42	Federico Zanier:	que sumaba puntos
+02:54:49	Rodrigo Martinez:	debe hablar del link de page
+02:54:55	Mariano Tsai:	JAJAJAJJA
+02:54:56	Rodrigo Martinez:	si si, el emulador
+02:55:03	Mariano Tsai:	parecemos todos locos
+02:55:03	Lautaro Campuzano:	el que te permitia visualizar el rendimiento
+02:55:04	Mariano Tsai:	aajajja
+02:55:07	Patricio Leal:	nos engaña vieron se olvida de nosotros
+02:55:15	Alejandro Fernandez:	😂
+02:55:15	Mariano Tsai:	ajajajajjajajajajaja
+02:55:19	Alejandro Vacaro:	jajajajjajaajajajaja
+02:55:20	Lautaro Campuzano:	el "coso"
+02:55:22	Alejandro Fernandez:	somos la otra!!
+02:55:23	Matias Ardenghi:	JAJAAJAJ
+02:55:29	Alejandro Vacaro:	jajajajaja
+02:55:34	Patricio Leal:	mmm
+02:55:36	Leonel Paz:	pongan leo mattioli
+02:55:40	Sebastián Perez:	mmmmmmmmmmmmmmmmm
+02:55:41	Leonel Paz:	me siento traicionado
+02:55:41	Sebastián Perez:	mmmmmmmmmmmmm
+02:55:41	Patricio Leal:	no l ose rick
+02:55:42	Alan Impagliazzo:	ya me la hicieron a esa
+02:55:42	Sebastián Perez:	mmmmmmmmmmmmmm
+02:55:45	Lautaro Campuzano:	como hare para olvidar
+02:55:50	Alejandro Fernandez:	😂
+02:55:51	Mariano Tsai:	Dios lo que me estoy riendo
+02:55:52	Facundo Peralta:	JAJAJJAJA alan jajajaj
+02:56:17	Naim Chalop:	jajaja
+02:56:25	Alejandro Fernandez:	le ahorrams el trabajo al tutor con el page jeje
+02:56:30	Sebastián Perez:	y eso que no tuvimos break hoy jajaa
+02:56:36	Mariano Tsai:	mañana podemos mostrar un poco de la pagina ?
+02:56:47	Naim Chalop:	bueno nos vemos profe!!
+02:56:48	Patricio Leal:	alaaan se fuee alaan no esta 🎵
+02:56:49	Ricardo agustin Aravena:	hay que traer el para tomar?
+02:56:58	Mariano Tsai:	Dalee, perfecto!!!
+02:57:01	Federico Zanier:	ok
+02:57:05	Mariano Tsai:	memes
+02:57:05	Matias Ardenghi:	te amamoss
+02:57:07	Mariano Tsai:	jajajaa
+02:57:11	Nicolas Zajaczkowski:	profe, podés compartir el código de lo que vimos hoy?
+02:57:16	Lautaro Campuzano:	galletita fauna y jugo tang
+02:57:21	Ivón Junco:	el código lo compartis en github
+02:57:24	Alejandro Fernandez:	Lu
+02:57:24	Ricardo agustin Aravena:	unos matulis!!!
+02:57:25	Leonardo Fleita:	iba perfecto hasta que llegamos a git y Bootstrap xD
+02:57:34	Leonel Paz:	un menu hamburguesa
+02:57:34	Marielvis Pino:	Gracia profe, buenas noches chicos, hasta mañana.
+02:57:43	Nicolas Zajaczkowski:	gracias
+02:57:47	Patricio Leal:	gracias profe buena clase
+02:57:56	Leonel Paz:	gracias profee
+02:58:05	Mariano Tsai:	Buenas noches a todos ♥
+02:58:07	Lautaro Campuzano:	Chau profe, buena clase
+02:58:14	Juan Galarza:	me voy a dormir feliz con lo del carousel!!! jajaja
+02:58:32	Alejandro Fernandez:	tenemos que tener varios commits ? eso lo cuentan ?
+02:58:45	Profesor Coderhouse:	https://github.com/LucianaGarro/bootstrap44190.git
+02:58:49	Alejandro Fernandez:	lu, podrías indicar lo de la página para hostear las img?
+02:59:01	Elisa Trevino:	Muchas gracias
+02:59:14	Nicolas Zajaczkowski:	gracias, profe
+02:59:32	Profesor Coderhouse:	https://squoosh.app/
+02:59:32	Nicolas Zajaczkowski:	nos podrás dar una mano a los que perdimos la valoración de git y GitHub?
+02:59:40	Nicolas Zajaczkowski:	o lo vemos con el tutor?
+02:59:51	Nicolas Zajaczkowski:	mil gracias!
+03:00:02	Alan Impagliazzo:	buenas noches!!
+03:00:08	Juan Galarza:	nos vemos mañana bunas noches!
+03:01:42	Alejandro Fernandez:	joya!
+03:01:45	Alejandro Fernandez:	gracias
+03:01:47	Nicolas Zajaczkowski:	chas gracias! hasta mañana!
+03:01:57	Nicolas Zajaczkowski:	ah jeje oki
+03:02:00	Nicolas Zajaczkowski:	me quedo me quedo
+03:02:07	Sebastián Perez:	bueno gente, exelente clase !! , saludos !!
+03:02:11	Karla Reveco:	gracias Lu, buenas noches
+03:02:19	Nahuel Lautaro Zalazar:	profe manda el link de la pagina para comprimir tamaño
+03:02:27	Alejandro Fernandez:	https://squoosh.app/
+03:02:30	Pablo Pereyra:	Profe! Estoy en la misma situación que Nico
+03:03:19	Nahuel Lautaro Zalazar:	gracias alejandro
+03:03:27	Nahuel Lautaro Zalazar:	chau nos vemos
+03:03:34	Pablo Pereyra:	Anmbos!
+03:04:06	Alejandro Fernandez:	buenas nochees!! nos vemos mañana
+03:04:31	Pablo Pereyra:	Me llegaron ambos
+03:04:41	Nicolas Zajaczkowski:	ya valoré, gracias!
+03:04:43	Nicolas Zajaczkowski:	a domani
+03:04:46	Jorge Mario Lasagni:	Buenas Noches!!!!°
+03:04:46	Ivón Junco:	Hasta mañana
+03:04:48	Elena Lamboglia:	Buenas noches!
+03:04:48	Pablo Pereyra:	Gracias profe!!
+03:04:54	Pablo Pereyra:	Que descanses

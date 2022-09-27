@@ -6,7 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mascotas|Mascotas</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
 <body>
@@ -34,66 +37,74 @@
         </ul>
     </nav>
 
+    <h2>Estas bellezas...</h2>
+    
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="../img/chihuahua 1.jpg" class="d-block w-100"  alt="Recargar">
+          </div>
+          <div class="carousel-item">
+            <img src="../img/perri 1.jpg" class="d-block w-100" alt="Recargar">
+          </div>
+          <div class="carousel-item">
+            <img src="../img/galgo3.jpg" class="d-block w-100" alt="Recargar">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+      <strong><p class="textoparrafo1"> Nuestro listado de amigos para adoptar! </p></strong>
 
     <main>
-        <section class="parrafoprimerseccion">
-
-            <h2>Estas bellezas...</h2>
-
-            <img src="../img/gatito 1.jfif" alt="Recargar">
-            <img src="../img/gatito 2.jfif" alt="Recargar">
-            <img src="../img/gatito 3.jfif" alt="Recargar">
-
-            <p class="textoparrafo1"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab itaque voluptas,
-                placeat
-                quaerat nobis
-                distinctio in dignissimos ipsam dolore nemo illum! Reiciendis a aliquid labore velit officia impedit
-                earum debitis. </p>
-        </section>
 
         <section class="parrafosegundaseccion">
 
-            <h2>Mascota 1</h2>
+            <h2>Perri</h2>
 
-            <img src="../img/gatito 1.jfif" alt="Recargar">
-            <img src="../img/gatito 2.jfif" alt="Recargar">
-            <img src="../img/gatito 3.jfif" alt="Recargar">
+            <img data-aos="fade-down-left" src="../img/perri 1.jpg" alt="Recargar" class="mes1">
+            <img data-aos="fade-down-left" src="../img/perri 2.jpg" alt="Recargar" class="mes2">
+            <img data-aos="fade-down-left" src="../img/perri 3.jpg" alt="Recargar" class="mes3">
 
-            <p class="textoparrafo2"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab itaque voluptas,
-                placeat
-                quaerat nobis
-                distinctio in dignissimos ipsam dolore nemo illum! Reiciendis a aliquid labore velit officia impedit
-                earum debitis. </p>
+            <p class="textoparrafo2"> PERRI, el más lindo de todos. Más bueno que el pan! Especial para adultos mayores
+                que necesitan copañía. </p>
         </section>
 
         <section class="parrafotercerseccion">
 
-            <h2>Mascota 2</h2>
+            <h2>Tuqui</h2>
 
-            <img src="../img/gatito 1.jfif" alt="Recargar">
-            <img src="../img/gatito 2.jfif" alt="Recargar">
-            <img src="../img/gatito 3.jfif" alt="Recargar">
+            <img data-aos="fade-down-right" src="../img/galgo1.jpg" alt="Recargar" class="mes1">
+            <img data-aos="fade-down-right" src="../img/galgo2.jpg" alt="Recargar" class="mes2">
+            <img data-aos="fade-down-right" src="../img/galgo3.jpg" alt="Recargar" class="mes3">
 
-            <p class="textoparrafo3"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab itaque voluptas,
-                placeat
-                quaerat nobis
-                distinctio in dignissimos ipsam dolore nemo illum! Reiciendis a aliquid labore velit officia impedit
-                earum debitis. </p>
+            <p class="textoparrafo3"> TUQUI, usado para carreras ilegales de galgos, fue rescatado por el equipo de
+                Mascotas.
+                Muy amigable y guardián! </p>
         </section>
 
         <section class="parrafocuartaseccion">
 
-            <h2>Mascota 3</h2>
+            <h2>Chihui</h2>
 
-            <img src="../img/gatito 1.jfif" alt="Recargar">
-            <img src="../img/gatito 2.jfif" alt="Recargar">
-            <img src="../img/gatito 3.jfif" alt="Recargar">
+            <img data-aos="fade-up-left" src="../img/chihuahua 1.jpg" alt="Recargar" class="mes1">
+            <img data-aos="fade-up-left" src="../img/chihuahua 2.jpg" alt="Recargar" class="mes2">
+            <img data-aos="fade-up-left" src="../img/chihuahua 3.jpg" alt="Recargar" class="mes3">
 
-            <p class="textoparrafo4"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab itaque voluptas,
-                placeat
-                quaerat nobis
-                distinctio in dignissimos ipsam dolore nemo illum! Reiciendis a aliquid labore velit officia impedit
-                earum debitis. </p>
+            <p class="textoparrafo4"> CHIHUI, nuestra entrada más nueva. Especial para niños y apartamentos chicos. Para
+                saber más sobre el clickea en su foto! </p>
         </section>
     </main>
 
@@ -111,6 +122,14 @@
             <img src="../img/icons8-twitter.svg" alt="" class="redesimg">
         </a>
     </footer>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+    <!-- scripts de BTS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+        </script>
 
 </body>
 
