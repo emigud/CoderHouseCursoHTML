@@ -1,0 +1,100 @@
+/* Mobile first */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+body {
+    text-align: center;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    list-style-type: none;
+    text-decoration: none;
+    background-color: orange;
+    font-size: small;
+    padding-top: 3px;
+
+    ul {
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: cornsilk;
+}
+
+header {
+    background-color: orange;
+    padding: 10px;
+    padding-top: 5px;
+    display: grid;
+    justify-content: center;
+}
+
+h1 {
+    color: black;
+    border: 5px solid cornsilk;
+    font-size: large;
+}
+
+h2 {
+    color: cornsilk;
+    background-color: black;
+    margin-top: 20px;
+    border: 2px solid orange;
+    font-size: large;
+}
+
+.footer {
+    color: cornsilk;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: small;
+}
+
+footer {
+    color: cornsilk;
+    background-color: black;
+    border: 2px solid black;
+    font-size: x-small;
+    height: 100vh;
+
+    .redes {
+        text-decoration: none;
+        color: cornsilk;
+    }
+}
+
+.redesimg {
+    border: 2px solid black;
+    width: 20px;
+    height: 20px;
+}
+
+img {
+    border: 2px solid grey;
+}
+
+p {
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: small;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+}

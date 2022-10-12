@@ -1,0 +1,49 @@
+/* 1024 px */
+
+@media (min-width:1024px) {
+   
+    nav ul {
+        display: flex;
+        font-size: xx-large;
+        background-color: orange;
+        justify-content: space-between;
+        flex-direction: row;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    h1 {
+        font-size: 4em;
+    }
+
+    h2 {
+        font-size: 3em;
+    }
+
+    .mes1,
+    .mes2,
+    .mes3 {
+        width: 250px;
+        height: 200px;
+        margin: 10px;
+    }
+
+    footer {
+        margin-top: 0;
+        font-size: large;
+        min-height: 25vh;
+    }
+ 
+    .footer{
+        font-size: x-large;
+    }
+
+    .redesimg {
+        width: 40px;
+        height: 40px;
+    }
+
+    p {
+        font-size:large;
+    };
+}

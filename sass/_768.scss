@@ -1,0 +1,64 @@
+/* 768 px */
+
+@media (min-width:768px) {
+    .envoltura {
+        grid-template-columns: 1fr 4fr 1fr;
+
+        grid-template-areas:
+
+        "header header header"
+        "nav nav nav"
+        "parrafoprimero parrafoprimero parrafoprimero"
+        "footer footer footer";
+    }
+
+    .gallery{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    nav ul {
+        display: flex;
+        font-size: x-large;
+        background-color: orange;
+        justify-content: space-between;
+        flex-direction: row;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 2em;
+    }
+
+    .mes1,
+    .mes2,
+    .mes3 {
+        width: 200px;
+        height: 150px;
+        margin: 10px;
+    }
+
+    footer {
+        margin-top: 0;
+        font-size: medium;
+        min-height: 33vh;
+    }
+   
+    .footer{
+        font-size: large;
+    }
+
+    .redesimg {
+        width: 40px;
+        height: 40px;
+    }
+
+    p {
+        font-size:medium;
+    };
+}

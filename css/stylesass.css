@@ -1,0 +1,269 @@
+/* Mobile first */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+body {
+  text-align: center;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  list-style-type: none;
+  text-decoration: none;
+  background-color: orange;
+  font-size: small;
+  padding-top: 3px;
+}
+nav ul {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: cornsilk;
+}
+
+header {
+  background-color: orange;
+  padding: 10px;
+  padding-top: 5px;
+  display: grid;
+  justify-content: center;
+}
+
+h1 {
+  color: black;
+  border: 5px solid cornsilk;
+  font-size: large;
+}
+
+h2 {
+  color: cornsilk;
+  background-color: black;
+  margin-top: 20px;
+  border: 2px solid orange;
+  font-size: large;
+}
+
+.footer {
+  color: cornsilk;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: small;
+}
+
+footer {
+  color: cornsilk;
+  background-color: black;
+  border: 2px solid black;
+  font-size: x-small;
+  height: 100vh;
+}
+footer .redes {
+  text-decoration: none;
+  color: cornsilk;
+}
+
+.redesimg {
+  border: 2px solid black;
+  width: 20px;
+  height: 20px;
+}
+
+img {
+  border: 2px solid grey;
+}
+
+p {
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: small;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Declarar el area de la grilla */
+header {
+  grid-area: header;
+}
+
+nav {
+  grid-area: nav;
+}
+
+.parrafoprimerseccion {
+  grid-area: parrafoprimero;
+}
+
+footer {
+  grid-area: footer;
+}
+
+/* Empiezo a acomodar area */
+.envoltura {
+  display: grid;
+  grid-template-areas: "header" "nav" "parrafoprimero" "footer";
+}
+
+.parrafoprimerseccion {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  gap: 15px;
+  justify-items: center;
+}
+
+.mes1 {
+  width: 200px;
+  height: 150px;
+  border: 8px solid #3a3548;
+  margin-top: 15px;
+}
+
+.mes2 {
+  width: 200px;
+  height: 150px;
+  border: 8px solid #3a3548;
+  margin-top: 15px;
+}
+
+.mes3 {
+  width: 200px;
+  height: 150px;
+  border: 8px solid #3a3548;
+  margin-top: 15px;
+}
+
+/*420px */
+@media (min-width: 420px) {
+  .envoltura {
+    margin: 0;
+    grid-template-areas: "header header" "nav nav" "parrafoprimero" "footer footer";
+  }
+  nav ul {
+    display: flex;
+    font-size: medium;
+    background-color: orange;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  .mes1,
+.mes2,
+.mes3 {
+    width: 250px;
+    height: 200px;
+  }
+  footer {
+    margin-top: 0;
+  }
+}
+/* 768 px */
+@media (min-width: 768px) {
+  .envoltura {
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-areas: "header header header" "nav nav nav" "parrafoprimero parrafoprimero parrafoprimero" "footer footer footer";
+  }
+  .gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  nav ul {
+    display: flex;
+    font-size: x-large;
+    background-color: orange;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  .mes1,
+.mes2,
+.mes3 {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+  }
+  footer {
+    margin-top: 0;
+    font-size: medium;
+    min-height: 33vh;
+  }
+  .footer {
+    font-size: large;
+  }
+  .redesimg {
+    width: 40px;
+    height: 40px;
+  }
+  p {
+    font-size: medium;
+  }
+}
+/* 1024 px */
+@media (min-width: 1024px) {
+  nav ul {
+    display: flex;
+    font-size: xx-large;
+    background-color: orange;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  h1 {
+    font-size: 4em;
+  }
+  h2 {
+    font-size: 3em;
+  }
+  .mes1,
+.mes2,
+.mes3 {
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+  }
+  footer {
+    margin-top: 0;
+    font-size: large;
+    min-height: 25vh;
+  }
+  .footer {
+    font-size: x-large;
+  }
+  .redesimg {
+    width: 40px;
+    height: 40px;
+  }
+  p {
+    font-size: large;
+  }
+}/*# sourceMappingURL=stylesass.css.map */
